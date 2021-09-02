@@ -1,1 +1,1 @@
-# fullstack exercises
+# Fullstack frontend demo 
